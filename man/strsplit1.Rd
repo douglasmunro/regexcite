@@ -2,20 +2,20 @@
 % Please edit documentation in R/strsplit1.R
 \name{strsplit1}
 \alias{strsplit1}
-\title{Split a srtring}
+\title{Split a string}
 \usage{
 strsplit1(x, split)
 }
 \arguments{
-\item{split}{What to split on.}
+\item{x}{A character vector with one element.}
 
-\item{A}{character vector with one element.}
+\item{split}{What to split on.}
 }
 \value{
 A character vector.
 }
 \description{
-Split a srtring
+Split a string
 }
 \examples{
 x <- "alfa,bravo,charlie,delta"

@@ -1,6 +1,6 @@
-#' Split a srtring
+#' Split a string
 #'
-#' @param A character vector with one element.
+#' @param x A character vector with one element.
 #' @param split What to split on.
 #'
 #' @return A character vector.
